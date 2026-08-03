@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-03 19:08",
+  "count": 1,
+  "songs": [
+    {
+      "id": "s001",
+      "title": "晴天",
+      "category": "弹唱",
+      "level": "中级",
+      "tags": [
+        "周杰伦",
+        "流行"
+      ],
+      "pages": 2,
+      "cover": "images/s001/01.jpg",
+      "images": [
+        "images/s001/01.jpg",
+        "images/s001/02.jpg"
+      ]
+    }
+  ]
+}
