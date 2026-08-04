@@ -1,13 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03 19:08",
+  "updatedAt": "2026-08-04 19:41",
   "count": 1,
   "songs": [
     {
       "id": "s001",
       "title": "晴天",
+      "artist": "周杰伦",
       "category": "弹唱",
       "level": "中级",
+      "stars": 3,
       "tags": [
         "周杰伦",
         "流行"
@@ -17,7 +19,8 @@
       "images": [
         "images/s001/01.jpg",
         "images/s001/02.jpg"
-      ]
+      ],
+      "videoUrl": ""
     }
   ]
 }
