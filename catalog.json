@@ -1329,27 +1329,6 @@
       "firstLetter": "X"
     },
     {
-      "id": "s076",
-      "title": "蜗牛",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s076/01.jpg",
-      "images": [
-        "images/s076/01.jpg",
-        "images/s076/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "W"
-    },
-    {
       "id": "s077",
       "title": "裹着心的光",
       "artist": "",
