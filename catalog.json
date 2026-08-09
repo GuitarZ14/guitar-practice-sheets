@@ -3771,28 +3771,6 @@
       "firstLetter": "G"
     },
     {
-      "id": "s193",
-      "title": "明天你好",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s193/01.jpg",
-      "images": [
-        "images/s193/01.jpg",
-        "images/s193/02.jpg",
-        "images/s193/03.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "M"
-    },
-    {
       "id": "s194",
       "title": "明天你好",
       "artist": "",
