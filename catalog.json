@@ -871,27 +871,6 @@
       "videoUrl": ""
     },
     {
-      "id": "s044",
-      "title": "彩虹的副本",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s044/01.jpg",
-      "images": [
-        "images/s044/01.jpg",
-        "images/s044/02.jpg",
-        "images/s044/03.jpg"
-      ],
-      "videoUrl": ""
-    },
-    {
       "id": "s046",
       "title": "往后余生",
       "artist": "",
