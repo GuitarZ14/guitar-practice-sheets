@@ -3075,27 +3075,6 @@
       "firstLetter": "C"
     },
     {
-      "id": "s175",
-      "title": "微微",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s175/01.jpg",
-      "images": [
-        "images/s175/01.jpg",
-        "images/s175/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "W"
-    },
-    {
       "id": "s176",
       "title": "思念是一种病",
       "artist": "",
@@ -3202,49 +3181,6 @@
       "images": [
         "images/s182/01.jpg",
         "images/s182/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "W"
-    },
-    {
-      "id": "s184",
-      "title": "我记得",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s184/01.jpg",
-      "images": [
-        "images/s184/01.jpg",
-        "images/s184/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "W"
-    },
-    {
-      "id": "s185",
-      "title": "我记得",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s185/01.jpg",
-      "images": [
-        "images/s185/01.jpg",
-        "images/s185/02.jpg",
-        "images/s185/03.jpg"
       ],
       "videoUrl": "",
       "firstLetter": "W"
