@@ -3290,27 +3290,6 @@
       "firstLetter": "J"
     },
     {
-      "id": "s171",
-      "title": "平凡之路",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s171/01.jpg",
-      "images": [
-        "images/s171/01.jpg",
-        "images/s171/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "P"
-    },
-    {
       "id": "s172",
       "title": "当你老了",
       "artist": "",
