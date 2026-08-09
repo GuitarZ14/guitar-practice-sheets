@@ -2331,27 +2331,6 @@
       "videoUrl": ""
     },
     {
-      "id": "s111",
-      "title": "爱在西元前",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s111/01.jpg",
-      "images": [
-        "images/s111/01.jpg",
-        "images/s111/02.jpg",
-        "images/s111/03.jpg"
-      ],
-      "videoUrl": ""
-    },
-    {
       "id": "s112",
       "title": "玫瑰少年",
       "artist": "",
