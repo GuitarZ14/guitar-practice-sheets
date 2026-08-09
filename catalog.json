@@ -2632,29 +2632,6 @@
       "firstLetter": "H"
     },
     {
-      "id": "s138",
-      "title": "你的微笑",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 4,
-      "cover": "images/s138/01.jpg",
-      "images": [
-        "images/s138/01.jpg",
-        "images/s138/02.jpg",
-        "images/s138/03.jpg",
-        "images/s138/04.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "N"
-    },
-    {
       "id": "s139",
       "title": "你的答案",
       "artist": "",
