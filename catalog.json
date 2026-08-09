@@ -1036,26 +1036,6 @@
       "videoUrl": ""
     },
     {
-      "id": "s056",
-      "title": "房间",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s056/01.jpg",
-      "images": [
-        "images/s056/01.jpg",
-        "images/s056/02.jpg"
-      ],
-      "videoUrl": ""
-    },
-    {
       "id": "s057",
       "title": "房间",
       "artist": "",
