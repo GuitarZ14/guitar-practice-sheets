@@ -1486,27 +1486,6 @@
       "firstLetter": "S"
     },
     {
-      "id": "s086",
-      "title": "是你",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s086/01.jpg",
-      "images": [
-        "images/s086/01.jpg",
-        "images/s086/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "S"
-    },
-    {
       "id": "s087",
       "title": "二十二",
       "artist": "",
@@ -1623,27 +1602,6 @@
       ],
       "videoUrl": "",
       "firstLetter": "C"
-    },
-    {
-      "id": "s092",
-      "title": "水星记",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s092/01.jpg",
-      "images": [
-        "images/s092/01.jpg",
-        "images/s092/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "S"
     },
     {
       "id": "s093",
@@ -3136,27 +3094,6 @@
       ],
       "videoUrl": "",
       "firstLetter": "X"
-    },
-    {
-      "id": "s169",
-      "title": "少年锦时",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s169/01.jpg",
-      "images": [
-        "images/s169/01.jpg",
-        "images/s169/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "S"
     },
     {
       "id": "s170",
