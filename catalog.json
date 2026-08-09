@@ -282,27 +282,6 @@
       "videoUrl": ""
     },
     {
-      "id": "s014",
-      "title": "稻香",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s014/01.jpg",
-      "images": [
-        "images/s014/01.jpg",
-        "images/s014/02.jpg",
-        "images/s014/03.jpg"
-      ],
-      "videoUrl": ""
-    },
-    {
       "id": "s015",
       "title": "说爱你",
       "artist": "",
