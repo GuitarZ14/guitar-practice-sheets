@@ -1934,29 +1934,6 @@
       "firstLetter": "S"
     },
     {
-      "id": "s100",
-      "title": "后来",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 4,
-      "cover": "images/s100/01.jpg",
-      "images": [
-        "images/s100/01.jpg",
-        "images/s100/02.jpg",
-        "images/s100/03.jpg",
-        "images/s100/04.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "H"
-    },
-    {
       "id": "s101",
       "title": "因为爱情",
       "artist": "",
