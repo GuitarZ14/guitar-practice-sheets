@@ -1372,28 +1372,6 @@
       "firstLetter": "H"
     },
     {
-      "id": "s072",
-      "title": "红色高跟鞋",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s072/01.jpg",
-      "images": [
-        "images/s072/01.jpg",
-        "images/s072/02.jpg",
-        "images/s072/03.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "H"
-    },
-    {
       "id": "s073",
       "title": "给你一瓶魔法药水",
       "artist": "",
