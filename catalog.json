@@ -1624,28 +1624,6 @@
       "videoUrl": ""
     },
     {
-      "id": "s079",
-      "title": "贝加尔湖畔",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 4,
-      "cover": "images/s079/01.jpg",
-      "images": [
-        "images/s079/01.jpg",
-        "images/s079/02.jpg",
-        "images/s079/03.jpg",
-        "images/s079/04.jpg"
-      ],
-      "videoUrl": ""
-    },
-    {
       "id": "s080",
       "title": "走马",
       "artist": "",
