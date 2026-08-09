@@ -3582,27 +3582,6 @@
       "firstLetter": "S"
     },
     {
-      "id": "s219",
-      "title": "真的爱你",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s219/01.jpg",
-      "images": [
-        "images/s219/01.jpg",
-        "images/s219/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "Z"
-    },
-    {
       "id": "s220",
       "title": "知足",
       "artist": "",
