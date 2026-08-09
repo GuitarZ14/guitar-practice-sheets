@@ -1393,29 +1393,6 @@
       "firstLetter": "H"
     },
     {
-      "id": "s071",
-      "title": "红玫瑰",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 4,
-      "cover": "images/s071/01.jpg",
-      "images": [
-        "images/s071/01.jpg",
-        "images/s071/02.jpg",
-        "images/s071/03.jpg",
-        "images/s071/04.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "H"
-    },
-    {
       "id": "s072",
       "title": "红色高跟鞋",
       "artist": "",
