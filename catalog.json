@@ -4513,29 +4513,6 @@
       "firstLetter": "H"
     },
     {
-      "id": "s227",
-      "title": "菊花台",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 4,
-      "cover": "images/s227/01.jpg",
-      "images": [
-        "images/s227/01.jpg",
-        "images/s227/02.jpg",
-        "images/s227/03.jpg",
-        "images/s227/04.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "J"
-    },
-    {
       "id": "s228",
       "title": "菊花台",
       "artist": "",
