@@ -559,28 +559,6 @@
       "firstLetter": "L"
     },
     {
-      "id": "s028",
-      "title": "冷雨夜",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s028/01.jpg",
-      "images": [
-        "images/s028/01.jpg",
-        "images/s028/02.jpg",
-        "images/s028/03.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "L"
-    },
-    {
       "id": "s029",
       "title": "凌晨计程车",
       "artist": "",
