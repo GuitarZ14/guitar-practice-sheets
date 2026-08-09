@@ -871,27 +871,6 @@
       "videoUrl": ""
     },
     {
-      "id": "s043",
-      "title": "彩虹",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s043/01.jpg",
-      "images": [
-        "images/s043/01.jpg",
-        "images/s043/02.jpg",
-        "images/s043/03.jpg"
-      ],
-      "videoUrl": ""
-    },
-    {
       "id": "s044",
       "title": "彩虹的副本",
       "artist": "",
