@@ -3207,27 +3207,6 @@
       "firstLetter": "W"
     },
     {
-      "id": "s183",
-      "title": "我们的时光",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s183/01.jpg",
-      "images": [
-        "images/s183/01.jpg",
-        "images/s183/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "W"
-    },
-    {
       "id": "s184",
       "title": "我记得",
       "artist": "",
