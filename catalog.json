@@ -695,28 +695,6 @@
       "firstLetter": "X"
     },
     {
-      "id": "s041",
-      "title": "小情歌",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s041/01.jpg",
-      "images": [
-        "images/s041/01.jpg",
-        "images/s041/02.jpg",
-        "images/s041/03.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "X"
-    },
-    {
       "id": "s042",
       "title": "张三的歌",
       "artist": "",
