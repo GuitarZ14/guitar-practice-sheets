@@ -1824,27 +1824,6 @@
       "firstLetter": "Y"
     },
     {
-      "id": "s103",
-      "title": "如愿",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s103/01.jpg",
-      "images": [
-        "images/s103/01.jpg",
-        "images/s103/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "R"
-    },
-    {
       "id": "s104",
       "title": "平凡之路",
       "artist": "",
