@@ -1611,28 +1611,6 @@
       "firstLetter": "Y"
     },
     {
-      "id": "s102",
-      "title": "夜空中最亮的星",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s102/01.jpg",
-      "images": [
-        "images/s102/01.jpg",
-        "images/s102/02.jpg",
-        "images/s102/03.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "Y"
-    },
-    {
       "id": "s104",
       "title": "平凡之路",
       "artist": "",
@@ -3600,28 +3578,6 @@
         "images/s211/01.jpg",
         "images/s211/02.jpg",
         "images/s211/03.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "Y"
-    },
-    {
-      "id": "s212",
-      "title": "烟花易冷",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s212/01.jpg",
-      "images": [
-        "images/s212/01.jpg",
-        "images/s212/02.jpg",
-        "images/s212/03.jpg"
       ],
       "videoUrl": "",
       "firstLetter": "Y"
