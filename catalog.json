@@ -389,28 +389,6 @@
       "firstLetter": "L"
     },
     {
-      "id": "s022",
-      "title": "一次就好",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s022/01.jpg",
-      "images": [
-        "images/s022/01.jpg",
-        "images/s022/02.jpg",
-        "images/s022/03.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "Y"
-    },
-    {
       "id": "s023",
       "title": "不潮不用花钱",
       "artist": "",
@@ -1001,27 +979,6 @@
       "firstLetter": "M"
     },
     {
-      "id": "s061",
-      "title": "有何不可",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s061/01.jpg",
-      "images": [
-        "images/s061/01.jpg",
-        "images/s061/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "Y"
-    },
-    {
       "id": "s062",
       "title": "梦一场",
       "artist": "",
@@ -1313,29 +1270,6 @@
       "firstLetter": "G"
     },
     {
-      "id": "s084",
-      "title": "一次就好",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 4,
-      "cover": "images/s084/01.jpg",
-      "images": [
-        "images/s084/01.jpg",
-        "images/s084/02.jpg",
-        "images/s084/03.jpg",
-        "images/s084/04.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "Y"
-    },
-    {
       "id": "s085",
       "title": "少年锦时",
       "artist": "",
@@ -1588,27 +1522,6 @@
       ],
       "videoUrl": "",
       "firstLetter": "Z"
-    },
-    {
-      "id": "s101",
-      "title": "因为爱情",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s101/01.jpg",
-      "images": [
-        "images/s101/01.jpg",
-        "images/s101/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "Y"
     },
     {
       "id": "s104",
