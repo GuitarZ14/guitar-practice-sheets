@@ -2222,27 +2222,6 @@
       "firstLetter": "X"
     },
     {
-      "id": "s143",
-      "title": "光辉岁月",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s143/01.jpg",
-      "images": [
-        "images/s143/01.jpg",
-        "images/s143/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "G"
-    },
-    {
       "id": "s144",
       "title": "光阴的故事",
       "artist": "",
@@ -4161,29 +4140,6 @@
       ],
       "videoUrl": "",
       "firstLetter": "H"
-    },
-    {
-      "id": "s252",
-      "title": "鼓楼",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 4,
-      "cover": "images/s252/01.jpg",
-      "images": [
-        "images/s252/01.jpg",
-        "images/s252/02.jpg",
-        "images/s252/03.jpg",
-        "images/s252/04.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "G"
     },
     {
       "id": "s253",
