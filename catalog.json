@@ -892,28 +892,6 @@
       "videoUrl": ""
     },
     {
-      "id": "s045",
-      "title": "彩虹（伴奏谱）",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 4,
-      "cover": "images/s045/01.jpg",
-      "images": [
-        "images/s045/01.jpg",
-        "images/s045/02.jpg",
-        "images/s045/03.jpg",
-        "images/s045/04.jpg"
-      ],
-      "videoUrl": ""
-    },
-    {
       "id": "s046",
       "title": "往后余生",
       "artist": "",
