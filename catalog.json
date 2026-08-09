@@ -867,27 +867,6 @@
       "firstLetter": "H"
     },
     {
-      "id": "s050",
-      "title": "情歌",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s050/01.jpg",
-      "images": [
-        "images/s050/01.jpg",
-        "images/s050/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "Q"
-    },
-    {
       "id": "s051",
       "title": "我们的时光",
       "artist": "",
@@ -1437,28 +1416,6 @@
       "firstLetter": "Z"
     },
     {
-      "id": "s081",
-      "title": "起风了",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s081/01.jpg",
-      "images": [
-        "images/s081/01.jpg",
-        "images/s081/02.jpg",
-        "images/s081/03.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "Q"
-    },
-    {
       "id": "s083",
       "title": "鼓楼",
       "artist": "",
@@ -1780,29 +1737,6 @@
       "firstLetter": "B"
     },
     {
-      "id": "s097",
-      "title": "起风了",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 4,
-      "cover": "images/s097/01.jpg",
-      "images": [
-        "images/s097/01.jpg",
-        "images/s097/02.jpg",
-        "images/s097/03.jpg",
-        "images/s097/04.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "Q"
-    },
-    {
       "id": "s098",
       "title": "追梦赤子心",
       "artist": "",
@@ -1976,28 +1910,6 @@
       ],
       "videoUrl": "",
       "firstLetter": "Z"
-    },
-    {
-      "id": "s107",
-      "title": "晴天",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s107/01.jpg",
-      "images": [
-        "images/s107/01.jpg",
-        "images/s107/02.jpg",
-        "images/s107/03.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "Q"
     },
     {
       "id": "s108",
@@ -3378,27 +3290,6 @@
       "firstLetter": "S"
     },
     {
-      "id": "s177",
-      "title": "情歌",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s177/01.jpg",
-      "images": [
-        "images/s177/01.jpg",
-        "images/s177/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "Q"
-    },
-    {
       "id": "s178",
       "title": "情歌",
       "artist": "",
@@ -4551,28 +4442,6 @@
       ],
       "videoUrl": "",
       "firstLetter": "Z"
-    },
-    {
-      "id": "s237",
-      "title": "起风了",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s237/01.jpg",
-      "images": [
-        "images/s237/01.jpg",
-        "images/s237/02.jpg",
-        "images/s237/03.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "Q"
     },
     {
       "id": "s238",
