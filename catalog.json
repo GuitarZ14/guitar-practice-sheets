@@ -1068,28 +1068,6 @@
       "firstLetter": "P"
     },
     {
-      "id": "s064",
-      "title": "烟花易冷",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s064/01.jpg",
-      "images": [
-        "images/s064/01.jpg",
-        "images/s064/02.jpg",
-        "images/s064/03.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "Y"
-    },
-    {
       "id": "s065",
       "title": "热爱105度的你",
       "artist": "",
