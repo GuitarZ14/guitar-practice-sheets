@@ -603,27 +603,6 @@
       "firstLetter": "T"
     },
     {
-      "id": "s033",
-      "title": "喜欢你",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s033/01.jpg",
-      "images": [
-        "images/s033/01.jpg",
-        "images/s033/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "X"
-    },
-    {
       "id": "s034",
       "title": "喜欢你",
       "artist": "",
@@ -801,27 +780,6 @@
       ],
       "videoUrl": "",
       "firstLetter": "W"
-    },
-    {
-      "id": "s047",
-      "title": "心墙",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s047/01.jpg",
-      "images": [
-        "images/s047/01.jpg",
-        "images/s047/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "X"
     },
     {
       "id": "s048",
@@ -1285,27 +1243,6 @@
       ],
       "videoUrl": "",
       "firstLetter": "Z"
-    },
-    {
-      "id": "s075",
-      "title": "萱草花",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s075/01.jpg",
-      "images": [
-        "images/s075/01.jpg",
-        "images/s075/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "X"
     },
     {
       "id": "s077",
@@ -2701,27 +2638,6 @@
       "firstLetter": "G"
     },
     {
-      "id": "s154",
-      "title": "喜欢你",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s154/01.jpg",
-      "images": [
-        "images/s154/01.jpg",
-        "images/s154/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "X"
-    },
-    {
       "id": "s155",
       "title": "因为爱情",
       "artist": "",
@@ -4037,27 +3953,6 @@
       ],
       "videoUrl": "",
       "firstLetter": "J"
-    },
-    {
-      "id": "s229",
-      "title": "萱草花",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s229/01.jpg",
-      "images": [
-        "images/s229/01.jpg",
-        "images/s229/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "X"
     },
     {
       "id": "s230",
