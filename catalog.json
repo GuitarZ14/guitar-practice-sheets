@@ -316,28 +316,6 @@
       "firstLetter": "Y"
     },
     {
-      "id": "s017",
-      "title": "龙卷风",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s017/01.jpg",
-      "images": [
-        "images/s017/01.jpg",
-        "images/s017/02.jpg",
-        "images/s017/03.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "L"
-    },
-    {
       "id": "s018",
       "title": "爱的初体验",
       "artist": "",
