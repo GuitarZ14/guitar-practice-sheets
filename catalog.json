@@ -1783,29 +1783,6 @@
       "firstLetter": "P"
     },
     {
-      "id": "s105",
-      "title": "微微",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 4,
-      "cover": "images/s105/01.jpg",
-      "images": [
-        "images/s105/01.jpg",
-        "images/s105/02.jpg",
-        "images/s105/03.jpg",
-        "images/s105/04.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "W"
-    },
-    {
       "id": "s106",
       "title": "找自己",
       "artist": "",
