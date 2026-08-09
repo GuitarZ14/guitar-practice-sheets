@@ -389,27 +389,6 @@
       "firstLetter": "L"
     },
     {
-      "id": "s021",
-      "title": "new boy",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s021/01.jpg",
-      "images": [
-        "images/s021/01.jpg",
-        "images/s021/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "N"
-    },
-    {
       "id": "s022",
       "title": "一次就好",
       "artist": "",
