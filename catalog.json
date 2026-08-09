@@ -957,27 +957,6 @@
       "firstLetter": "W"
     },
     {
-      "id": "s055",
-      "title": "我要你",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s055/01.jpg",
-      "images": [
-        "images/s055/01.jpg",
-        "images/s055/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "W"
-    },
-    {
       "id": "s057",
       "title": "房间",
       "artist": "",
