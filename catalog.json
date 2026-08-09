@@ -1306,28 +1306,6 @@
       "firstLetter": "Z"
     },
     {
-      "id": "s068",
-      "title": "简单爱",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s068/01.jpg",
-      "images": [
-        "images/s068/01.jpg",
-        "images/s068/02.jpg",
-        "images/s068/03.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "J"
-    },
-    {
       "id": "s069",
       "title": "简单爱",
       "artist": "",
