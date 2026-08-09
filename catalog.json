@@ -4536,28 +4536,6 @@
       "firstLetter": "D"
     },
     {
-      "id": "s225",
-      "title": "红色高跟鞋",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s225/01.jpg",
-      "images": [
-        "images/s225/01.jpg",
-        "images/s225/02.jpg",
-        "images/s225/03.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "H"
-    },
-    {
       "id": "s226",
       "title": "红色高跟鞋（原调）",
       "artist": "",
