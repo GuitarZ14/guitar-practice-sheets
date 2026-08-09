@@ -1547,27 +1547,6 @@
       "firstLetter": "P"
     },
     {
-      "id": "s106",
-      "title": "找自己",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s106/01.jpg",
-      "images": [
-        "images/s106/01.jpg",
-        "images/s106/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "Z"
-    },
-    {
       "id": "s108",
       "title": "有没有人告诉你",
       "artist": "",
