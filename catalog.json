@@ -3603,26 +3603,6 @@
       "videoUrl": ""
     },
     {
-      "id": "s180",
-      "title": "成都",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s180/01.jpg",
-      "images": [
-        "images/s180/01.jpg",
-        "images/s180/02.jpg"
-      ],
-      "videoUrl": ""
-    },
-    {
       "id": "s181",
       "title": "成都",
       "artist": "",
