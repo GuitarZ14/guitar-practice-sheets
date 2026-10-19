@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19 11:00",
-  "count": 182,
+  "updatedAt": "2026-10-19 11:01",
+  "count": 183,
   "songs": [
     {
       "id": "s001",
@@ -4033,6 +4033,24 @@
       ],
       "videoUrl": "",
       "firstLetter": "L"
+    },
+    {
+      "id": "s254",
+      "title": "我好像在哪见过你",
+      "artist": "",
+      "category": "弹唱",
+      "level": "高级",
+      "stars": 4,
+      "tags": [],
+      "pages": 3,
+      "cover": "images/s254/01.jpg",
+      "images": [
+        "images/s254/01.jpg",
+        "images/s254/02.jpg",
+        "images/s254/03.jpg"
+      ],
+      "videoUrl": "",
+      "firstLetter": "W"
     }
   ]
 }
