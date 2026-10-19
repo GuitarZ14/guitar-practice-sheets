@@ -1,7 +1,7 @@
 {
   "version": 1,
   "updatedAt": "2026-10-19 11:04",
-  "count": 181,
+  "count": 182,
   "songs": [
     {
       "id": "s001",
@@ -4006,6 +4006,25 @@
       ],
       "videoUrl": "",
       "firstLetter": "W"
+    },
+    {
+      "id": "s255",
+      "title": "有何不可",
+      "artist": "",
+      "category": "弹唱",
+      "level": "中级",
+      "stars": 3,
+      "tags": [],
+      "pages": 4,
+      "cover": "images/s255/01.jpg",
+      "images": [
+        "images/s255/01.jpg",
+        "images/s255/02.jpg",
+        "images/s255/03.jpg",
+        "images/s255/04.jpg"
+      ],
+      "videoUrl": "",
+      "firstLetter": "Y"
     }
   ]
 }
