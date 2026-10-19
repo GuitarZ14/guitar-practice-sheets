@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19 11:08",
+  "updatedAt": "2026-10-19 11:10",
   "count": 182,
   "songs": [
     {
@@ -4006,17 +4006,19 @@
     },
     {
       "id": "s256",
-      "title": "声声慢",
+      "title": "少年",
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 2,
+      "stars": 0,
       "tags": [],
-      "pages": 2,
+      "pages": 4,
       "cover": "images/s256/01.jpg",
       "images": [
         "images/s256/01.jpg",
-        "images/s256/02.jpg"
+        "images/s256/02.jpg",
+        "images/s256/03.jpg",
+        "images/s256/04.jpg"
       ],
       "videoUrl": "",
       "firstLetter": "S"
