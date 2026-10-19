@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19 10:23",
-  "count": 187,
+  "updatedAt": "2026-10-19 10:33",
+  "count": 186,
   "songs": [
     {
       "id": "s001",
@@ -450,27 +450,6 @@
       ],
       "videoUrl": "",
       "firstLetter": "G"
-    },
-    {
-      "id": "s026",
-      "title": "兜圈",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 2,
-      "cover": "images/s026/01.jpg",
-      "images": [
-        "images/s026/01.jpg",
-        "images/s026/02.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "D"
     },
     {
       "id": "s027",
