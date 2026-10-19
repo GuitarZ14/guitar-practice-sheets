@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19 11:06",
-  "count": 181,
+  "updatedAt": "2026-10-19 11:08",
+  "count": 182,
   "songs": [
     {
       "id": "s001",
@@ -4003,6 +4003,23 @@
       ],
       "videoUrl": "",
       "firstLetter": "Y"
+    },
+    {
+      "id": "s256",
+      "title": "声声慢",
+      "artist": "",
+      "category": "弹唱",
+      "level": "初级",
+      "stars": 2,
+      "tags": [],
+      "pages": 2,
+      "cover": "images/s256/01.jpg",
+      "images": [
+        "images/s256/01.jpg",
+        "images/s256/02.jpg"
+      ],
+      "videoUrl": "",
+      "firstLetter": "S"
     }
   ]
 }
