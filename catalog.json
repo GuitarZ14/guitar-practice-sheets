@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19 10:57",
-  "count": 185,
+  "updatedAt": "2026-10-19 11:00",
+  "count": 182,
   "songs": [
     {
       "id": "s001",
@@ -97,8 +97,8 @@
       "title": "如烟",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "中级",
+      "stars": 3,
       "tags": [
         "吉他",
         "弹唱",
@@ -234,8 +234,8 @@
       "title": "淘汰",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "中级",
+      "stars": 3,
       "tags": [
         "吉他",
         "弹唱",
@@ -255,8 +255,8 @@
       "title": "王妃",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "中级",
+      "stars": 3,
       "tags": [
         "吉他",
         "弹唱",
@@ -277,7 +277,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -544,7 +544,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -613,7 +613,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -700,7 +700,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -805,34 +805,12 @@
       "firstLetter": "W"
     },
     {
-      "id": "s053",
-      "title": "我好像在哪见过你",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s053/01.jpg",
-      "images": [
-        "images/s053/01.jpg",
-        "images/s053/02.jpg",
-        "images/s053/03.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "W"
-    },
-    {
       "id": "s054",
       "title": "我的名字",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "中级",
+      "stars": 3,
       "tags": [
         "吉他",
         "弹唱",
@@ -869,28 +847,6 @@
       ],
       "videoUrl": "",
       "firstLetter": "F"
-    },
-    {
-      "id": "s058",
-      "title": "撒野",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s058/01.jpg",
-      "images": [
-        "images/s058/01.jpg",
-        "images/s058/02.jpg",
-        "images/s058/03.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "S"
     },
     {
       "id": "s059",
@@ -987,7 +943,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -1231,8 +1187,8 @@
       "title": "少年锦时",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "中级",
+      "stars": 3,
       "tags": [
         "吉他",
         "弹唱",
@@ -1279,8 +1235,8 @@
       "title": "全世界失眠",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "中级",
+      "stars": 3,
       "tags": [
         "吉他",
         "弹唱",
@@ -1687,7 +1643,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -1729,8 +1685,8 @@
       "title": "苏州河",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "中级",
+      "stars": 3,
       "tags": [
         "吉他",
         "弹唱",
@@ -1752,7 +1708,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -1992,7 +1948,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -2034,8 +1990,8 @@
       "title": "世界赠予我的",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "中级",
+      "stars": 3,
       "tags": [
         "吉他",
         "弹唱",
@@ -2271,8 +2227,8 @@
       "title": "十年",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "中级",
+      "stars": 3,
       "tags": [
         "吉他",
         "弹唱",
@@ -2340,7 +2296,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -2407,7 +2363,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -2539,8 +2495,8 @@
       "title": "如愿",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "中级",
+      "stars": 3,
       "tags": [
         "吉他",
         "弹唱",
@@ -2561,8 +2517,8 @@
       "title": "如果可以",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "中级",
+      "stars": 3,
       "tags": [
         "吉他",
         "弹唱",
@@ -2738,7 +2694,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -2761,7 +2717,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -2782,8 +2738,8 @@
       "title": "情非得已",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "中级",
+      "stars": 3,
       "tags": [
         "吉他",
         "弹唱",
@@ -2849,7 +2805,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -3069,7 +3025,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 1,
       "tags": [
         "吉他",
         "弹唱",
@@ -3114,7 +3070,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -3265,8 +3221,8 @@
       "title": "水星记",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "中级",
+      "stars": 3,
       "tags": [
         "吉他",
         "弹唱",
@@ -3331,7 +3287,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -3483,7 +3439,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 1,
       "tags": [
         "吉他",
         "弹唱",
@@ -3571,7 +3527,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -3701,8 +3657,8 @@
       "title": "蜗牛",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "中级",
+      "stars": 3,
       "tags": [
         "吉他",
         "弹唱",
@@ -3744,7 +3700,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -3855,8 +3811,8 @@
       "title": "我的歌声里",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "中级",
+      "stars": 3,
       "tags": [
         "吉他",
         "弹唱",
@@ -3992,34 +3948,12 @@
       "firstLetter": "Y"
     },
     {
-      "id": "s248",
-      "title": "青花瓷（C 大调）",
-      "artist": "",
-      "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
-      "tags": [
-        "吉他",
-        "弹唱",
-        "民谣"
-      ],
-      "pages": 3,
-      "cover": "images/s248/01.jpg",
-      "images": [
-        "images/s248/01.jpg",
-        "images/s248/02.jpg",
-        "images/s248/03.jpg"
-      ],
-      "videoUrl": "",
-      "firstLetter": "Q"
-    },
-    {
       "id": "s249",
       "title": "青花瓷（G 大调）",
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
