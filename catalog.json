@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-09 14:48",
-  "count": 253,
+  "updatedAt": "2026-10-19 10:23",
+  "count": 187,
   "songs": [
     {
       "id": "s001",
@@ -320,8 +320,8 @@
       "title": "爱的初体验",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "高级",
+      "stars": 5,
       "tags": [
         "吉他",
         "弹唱",
@@ -1028,8 +1028,8 @@
       "title": "爱情讯息",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "中级",
+      "stars": 3,
       "tags": [
         "吉他",
         "弹唱",
@@ -3437,7 +3437,7 @@
       "artist": "",
       "category": "弹唱",
       "level": "初级",
-      "stars": 0,
+      "stars": 2,
       "tags": [
         "吉他",
         "弹唱",
@@ -3501,8 +3501,8 @@
       "title": "爱的飞行日记",
       "artist": "",
       "category": "弹唱",
-      "level": "初级",
-      "stars": 0,
+      "level": "中级",
+      "stars": 3,
       "tags": [
         "吉他",
         "弹唱",
