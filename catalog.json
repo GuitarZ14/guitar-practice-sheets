@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20 11:37",
-  "count": 183,
+  "updatedAt": "2026-10-20 16:20",
+  "count": 184,
   "songs": [
     {
       "id": "s001",
@@ -4043,6 +4043,33 @@
       ],
       "videoUrl": "",
       "firstLetter": "Q"
+    },
+    {
+      "id": "s258",
+      "title": "大石碎胸口",
+      "artist": "",
+      "category": "弹唱",
+      "level": "高级",
+      "stars": 5,
+      "tags": [],
+      "pages": 12,
+      "cover": "images/s258/01.jpg",
+      "images": [
+        "images/s258/01.jpg",
+        "images/s258/02.jpg",
+        "images/s258/03.jpg",
+        "images/s258/04.jpg",
+        "images/s258/05.jpg",
+        "images/s258/06.jpg",
+        "images/s258/07.jpg",
+        "images/s258/08.jpg",
+        "images/s258/09.jpg",
+        "images/s258/10.jpg",
+        "images/s258/11.jpg",
+        "images/s258/12.jpg"
+      ],
+      "videoUrl": "",
+      "firstLetter": "D"
     }
   ]
 }
